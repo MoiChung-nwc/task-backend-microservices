@@ -29,7 +29,6 @@ Dự án này là một **hệ thống Microservices sử dụng Spring Boot** �
 * Xác thực bằng JWT
 * Phân quyền bằng các enum `Role` và `Permission`
 * Hỗ trợ làm mới token
-* Dữ liệu nhạy cảm được mã hóa bằng RSA/AES
 
 ---
 
